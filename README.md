@@ -1,2 +1,2 @@
 # 7-CFD-DEM-LPBF-Molten-Pool-Splatter
-CFD-DEM Study on the Coupled Dynamic Behavior of Molten Pool-Splatter during Laser Powder Bed Fusion
+The code is about the CFD-DEM study on the coupled dynamic behavior of molten pool-splatter during Laser Powder Bed Fusion (LPBF), and the full code will be made public after the paper is published.
